@@ -1,2 +1,9 @@
-# meeting-lottery
-The company's annual meeting uses a lottery program, developed based on pygame, and runs on Windows PC.
+# 就与pygame游戏库,实现一个年会抽奖小程序
+1. 将按照name_file.xls的格式,写入需要抽奖员工的工号的名字
+2. 运行main.py(python main.py),或者执行make_exe.bat, 生成可执行文件
+3. 根据需要,自行更换bg_1920x1080.jpg
+
+# 程序操作:
+1. esc按钮退出程序后,会生成"中奖名单.xls"文件
+2. F5按钮可以最小化抽奖程序,并停止播放声音
+
